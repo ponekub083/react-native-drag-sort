@@ -1,15 +1,40 @@
 {
-  "name": "react-native-drag-sort",
-  "version": "2.3.9",
+  "_from": "react-native-drag-sort",
+  "_id": "react-native-drag-sort@2.3.9",
+  "_inBundle": false,
+  "_integrity": "sha512-TcyWAqVcHOT4LVC4tAdpbbTlNgcPH7O1P2tzxX7krGtdUbOBpoEmKdY3wDhvDWJbeAgL4mCmzvLNkleD2qvtXg==",
+  "_location": "/react-native-drag-sort",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-drag-sort",
+    "name": "react-native-drag-sort",
+    "escapedName": "react-native-drag-sort",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-drag-sort/-/react-native-drag-sort-2.3.9.tgz",
+  "_shasum": "d63e2a15dc78eb8d4779784705072e0b54ef249e",
+  "_spec": "react-native-drag-sort",
+  "_where": "D:\\ReactNativeProject\\work-from-home-mobile",
+  "author": {
+    "name": "mochixuan"
+  },
+  "bugs": {
+    "url": "https://github.com/mochixuan/react-native-drag-sort/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
   "description": "Drag and drop sort control for react-native",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mochixuan/react-native-drag-sort.git"
-  },
+  "devDependencies": {},
+  "homepage": "https://github.com/mochixuan/react-native-drag-sort#readme",
   "keywords": [
     "drag",
     "drop",
@@ -21,12 +46,15 @@
     "react-native",
     "list"
   ],
-  "author": "mochixuan",
   "license": "ISC",
-  "dependencies": {},
-  "devDependencies": {},
-  "bugs": {
-    "url": "https://github.com/mochixuan/react-native-drag-sort/issues"
+  "main": "index.js",
+  "name": "react-native-drag-sort",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mochixuan/react-native-drag-sort.git"
   },
-  "homepage": "https://github.com/mochixuan/react-native-drag-sort#readme"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.3.9"
 }
